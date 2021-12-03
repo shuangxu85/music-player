@@ -22,6 +22,9 @@ nav {
 
 @media screen and (max-width: 768px) {
 	nav {
+		h2 {
+			font-size: 12px;
+		}
 		button {
 			z-index: 10;
 		}
